@@ -203,12 +203,12 @@ inquiry_options() {
   print_banner
   printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador PLW DESIGN, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar whaticket\n"
-  printf "   [1] Atualizar whaticket\n"
-  printf "   [2] Deletar Whaticket\n"
-  printf "   [3] Bloquear Whaticket\n"
-  printf "   [4] Desbloquear Whaticket\n"
-  printf "   [5] Alter. dominio Whaticket\n"
+  printf "   [0] Instalar  WhatsApp\n"
+  printf "   [1] Atualizar WhatsApp\n"
+  printf "   [2] Deletar WhatsApp\n"
+  printf "   [3] Bloquear WhatsApp\n"
+  printf "   [4] Desbloquear WhatsApp\n"
+  printf "   [5] Alter. dominio WhatsApp\n"
   printf "\n"
   read -p "> " option
 
